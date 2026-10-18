@@ -815,7 +815,7 @@ def show_financial_summary(connection):
         f"{format_money(profit - expenses)}"
     )
     print(
-        "Note: profit stock ki average khareed qeemat se andaza hai; "
+        "Note: profit khareed ke waqt darj rate se andaza hai; "
         "yeh tax/accountant report ka badal nahin."
     )
 
