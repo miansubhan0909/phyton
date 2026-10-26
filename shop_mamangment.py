@@ -886,7 +886,7 @@ def main():
         print("\nProgram band ho raha hai. Pehle se save shuda record mehfooz hain.")
     finally:
         connection.close()
-
+# juat for practice
 
 if __name__ == "__main__":
     main()
