@@ -811,7 +811,7 @@ def show_financial_summary(connection):
     print(f"Kul expenses:              {format_money(expenses)}")
     print(f"Andazati gross profit:     {format_money(profit)}")
     print(
-        "Andazati net profit:       "
+        "Andazati net profit::       "
         f"{format_money(profit - expenses)}"
     )
     print(
@@ -840,7 +840,7 @@ def show_menu():
 13. Wasooli/adaigi payment history
 14. Kharchon ki history
 0. Band karein
-==================================================
+=====================================================
 """
     )
 
