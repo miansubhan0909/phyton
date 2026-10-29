@@ -10,7 +10,7 @@ else:
 print("-- for loop start --")
 for i in range(5):
     print(i)
-print("-- for loop end --")#dhhhshshhshshhs
+print("-- for loop end --")#dhh
 #while loop
 print("-- while loop start --")
 count = 1
