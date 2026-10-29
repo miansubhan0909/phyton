@@ -6,13 +6,11 @@ elif marks >= 50:
     print("Pass")
 else:
     print("Fail")
-
 # for loop
 print("-- for loop start --")
 for i in range(5):
     print(i)
 print("-- for loop end --")
-
 #while loop
 print("-- while loop start --")
 count = 1
