@@ -37,7 +37,7 @@ if age >= 18 and age <= 65:
     print("You are eligible to work.")
 else:
     print("You are not eligible to work.")  
-
+#dhhjkksdkskkskskksks
 # if else with user input
 print("-- if else with user input start --")
 number=int(input("Enter a number = "))
