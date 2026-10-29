@@ -48,5 +48,3 @@ elif number < 0:
 else:
     print("The number is zero.")
 print("-- if else with user input end --")
-# if else with nested conditions
-print("-- if else with nested conditions start --")
