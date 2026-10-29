@@ -18,7 +18,6 @@ while count <=5:
     print(count)
 count = count + 1
 print("-- while loop end --")
-
 #for loop with break and continue
 print("-- for loop with break and continue start --")
 for number in range(1, 6): #yahaan 1 se 5 tak loop chale ga
