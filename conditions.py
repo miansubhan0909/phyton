@@ -48,3 +48,4 @@ elif number < 0:
 else:
     print("The number is zero.")
 print("-- if else with user input end --")
+UnboundLocalError
